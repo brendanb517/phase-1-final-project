@@ -1,0 +1,96 @@
+{
+    "acoustic": [
+        {
+            "id": "1",
+            "image": "https://m.media-amazon.com/images/I/71zp4wOrSTL.jpg",
+            "brand": "Yamaha",
+            "model": "C40",
+            "price": 159.99,
+            "condition": "used",
+            "level": "Beginner"
+        },
+        {
+            "id": "2",
+            "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/f/e/fen-097011042_main.jpg",
+            "brand": "Fender",
+            "model": "CD-60S",
+            "price": 199.99,
+            "condition": "new",
+            "level": "Beginner"
+        },
+        {
+            "id": "3",
+            "image": "https://www.stars-music.com/medias/epiphone/hummingbird-studio-dreadnought-epicea-acajou-pf-hd-4-58209.jpg",
+            "brand": "Epiphone",
+            "model": "Hummingbird Studio",
+            "price": 449.99,
+            "condition": "new",
+            "level": "Beginner"
+        },
+        {
+            "id": "4",
+            "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/t/a/tay-gsmmah.jpg",
+            "brand": "Taylor",
+            "model": "GS Mini Mahogany",
+            "price": 559.99,
+            "condition": "new",
+            "level": "Beginner"
+        },
+        {
+            "id": "5",
+            "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/i/b/iba-aw54ceopn_2.jpg",
+            "brand": "Ibanez",
+            "model": "AW54CE",
+            "price": 329.99,
+            "condition": "used",
+            "level": "Beginner"
+        }
+    ],
+    "electric": [
+        {
+            "id": "1",
+            "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/y/a/yam-pac112vovs.jpg",
+            "brand": "Yamaha",
+            "model": "Pacifica 112V",
+            "price": 309.99,
+            "condition": "used",
+            "level": "Beginner"
+        },
+        {
+            "id": "2",
+            "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/f/e/fen-0374005540_pp.jpg",
+            "brand": "Squier",
+            "model": "Classic Vibe '50s Stratocaster",
+            "price": 419.99,
+            "condition": "used",
+            "level": "Beginner"
+        },
+        {
+            "id": "3",
+            "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/p/r/prs-st4vchcb.jpg",
+            "brand": "PRS",
+            "model": "SE Standard 24",
+            "price": 649.99,
+            "condition": "new",
+            "level": "Beginner"
+        },
+        {
+            "id": "4",
+            "image": "https://www.stars-music.com/medias/epiphone/les-paul-studio-modern-2020-hh-ht-pf-hd-165809.jpg",
+            "brand": "Epiphone",
+            "model": "Les Paul Studio",
+            "price": 269.99,
+            "condition": "used",
+            "level": "Beginner" 
+        },
+        {
+            "id": "5",
+            "image": "https://www.stars-music.com/medias/gretsch/g2420-streamliner-hollow-body-with-chromatic-ii-hh-ht-lau-hd-160254.jpg",
+            "brand": "Gretsch",
+            "model": "G2420 Streamliner",
+            "price": 559.99,
+            "condition": "new",
+            "level": "Beginner"
+        }
+    ]
+}
