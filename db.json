@@ -89,7 +89,7 @@
             "price": "1,599.99",
             "condition": "new",
             "level": "Advanced"
-        },
+        }
     ],
     "electric": [
         {
@@ -181,6 +181,6 @@
             "price": "3,999.99",
             "condition": "new",
             "level": "Advanced"
-        },
+        }
     ]
 }
