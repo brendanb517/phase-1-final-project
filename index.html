@@ -3,46 +3,54 @@
     <head>
         <title>Super Guitarist</title>
         <link rel="stylesheet" href="./style.css">
-        <script src="./index.js"> </script>
+        <script src="./index.js"></script>
     </head>
     <body>
-        <!-- <div id="top">
-            <img class="logo" src="" /> 
-        </div> -->
+        <div id="nav-bar">
+            <button id="acoustic-button">ACOUSTICS</button>
+            <button id="electric-button">ELECTRIC</button>
             <div id="page-title">
-                <h1>Super Guitarist</h1>
+                <h2>Super Guitarist</h2>
             </div>
+        </div>
         <header>
-
-            <nav>
-              <ul id="inventory-column">
+            <ul id="inventory-column">
                 <li>Guitar #1</li>
                 <li>Guitar #2</li>
                 <li>Guitar #3</li>
                 <li>Guitar #4</li>
-              </ul>
-            </nav>
-          </header>
+            </ul>
+        </header>
 
-          <div id="main-body">
-            <img id="image" src="" />
-            <div id="guitar-form">
-                <h1 id="brand">Brand</h1>
-                <h2 id="model">Year Released</h2>
-                <h3 id="price">Price</h3>
-                <h4 id="condition">Condition</h4>
-                <h4 id="level">Level</h4>
-          </div>
+        <div id="main-body">
+            <img id="main-guitar-image" src="" />
+            <h3 id="main-guitar-brand">Brand</h3>
+            <p id="main-guitar-model">Model</p>
+            <p id="main-guitar-price">Price</p>
+            <p id="main-guitar-description">Description</p>
+            <p id="main-guitar-condition">Condition</p>
+            <p id="main-guitar-level">Level</p>
+        </div>
         
         <div id="new-guitar-form">
-            <h1>New Guitar Form</h1>
-            <div>
-                <h1 id="new-brand">Brand</h1>
-                <h2 id="new-model">Year Released</h2>
-                <h3 id="new-price">Price</h3>
-                <h4 id="new-condition">Condition</h4>
-                <h4 id="new-level">Level</h4>
-          </div>
+            <form>
+                <fieldset>
+                    <legend>List your own guitar for sale:</legend>
+                    <label for="new-guitar-brand">Brand</label>
+                    <input id="new-guitar-brand" type="text">
+                    <label for="new-guitar-model">Year Released</label>
+                    <input id="new-guitar-model" type="text">
+                    <label for="new-guitar-price">Price</label>
+                    <input id="new-guitar-price" type="number">
+                    <label for="guitar-condition-new">New</label>
+                    <input id="guitar-condition-new" type="radio" value="new">
+                    <label for="guitar-condition-used">Used</label>
+                    <input id="guitar-condition-used" type="radio" value="used">
+                    <label for="new-guitar-skill-level">Level</label>
+                    <input id="new-guitar-skill-level" type="text">
+                    <input type="submit" id="submit">
+                </fieldset>
+            </form>
         </div>
 
         

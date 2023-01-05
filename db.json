@@ -7,6 +7,7 @@
             "model": "C40",
             "price": "159.99",
             "condition": "used",
+            "description": "A great beginner guitar with that trademark Yamaha quality. Doesn't project as well as other options, but great to learn the basics.",
             "level": "Beginner"
         },
         {
@@ -16,6 +17,7 @@
             "model": "CD-60S",
             "price": "199.99",
             "condition": "new",
+            "description": "The smaller neck and decent quality make this option perfect for a younger player.",
             "level": "Beginner"
         },
         {
@@ -25,6 +27,7 @@
             "model": "Hummingbird Studio",
             "price": "449.99",
             "condition": "new",
+            "description": "An easy to play option that's built well.",
             "level": "Beginner"
         },
         {
@@ -34,6 +37,7 @@
             "model": "GS Mini Mahogany",
             "price": "559.99",
             "condition": "new",
+            "description": "The high build quality and decent price make this one of Taylor's most popular models.",
             "level": "Beginner"
         },
         {
@@ -43,6 +47,7 @@
             "model": "AW54CE",
             "price": "329.99",
             "condition": "used",
+            "description": "",
             "level": "Beginner"
         },
         {
@@ -52,6 +57,7 @@
             "model": "Montana Hummingbird",
             "price": "3,849.00",
             "condition": "new",
+            "description": "",
             "level": "Advanced"
         },
         {
@@ -61,6 +67,7 @@
             "model": "Reimagined Series D-28",
             "price": "3,199.00",
             "condition": "new",
+            "description": "",
             "level": "Advanced"
         },
         {
@@ -70,6 +77,7 @@
             "model": "32SE Stage Edition",
             "price": "5,935.00",
             "condition": "new",
+            "description": "",
             "level": "Advanced"
         },
         {
@@ -79,6 +87,7 @@
             "model": "SC-13E",
             "price": "1,599.00",
             "condition": "new",
+            "description": "",
             "level": "Advanced"
         },
         {
@@ -88,6 +97,7 @@
             "model": "A5R ARE",
             "price": "1,599.99",
             "condition": "new",
+            "description": "",
             "level": "Advanced"
         }
     ],
@@ -99,6 +109,7 @@
             "model": "Pacifica 112V",
             "price": "309.99",
             "condition": "used",
+            "description": "",
             "level": "Beginner"
         },
         {
@@ -108,6 +119,7 @@
             "model": "Classic Vibe '50s Stratocaster",
             "price": "419.99",
             "condition": "used",
+            "description": "",
             "level": "Beginner"
         },
         {
@@ -117,6 +129,7 @@
             "model": "SE Standard 24",
             "price": "649.99",
             "condition": "new",
+            "description": "",
             "level": "Beginner"
         },
         {
@@ -126,6 +139,7 @@
             "model": "Les Paul Studio",
             "price": "269.99",
             "condition": "used",
+            "description": "",
             "level": "Beginner" 
         },
         {
@@ -135,6 +149,7 @@
             "model": "G2420 Streamliner",
             "price": "559.99",
             "condition": "new",
+            "description": "",
             "level": "Beginner"
         },
         {
@@ -144,6 +159,7 @@
             "model": "CS Time Machine Series '52 Telecaster",
             "price": "4,350",
             "condition": "new",
+            "description": "",
             "level": "Advanced"
         },
         {
@@ -153,6 +169,7 @@
             "model": "SA2200",
             "price": "2099.99",
             "condition": "used",
+            "description": "",
             "level": "Advanced"
         },
         {
@@ -162,6 +179,7 @@
             "model": "1968 Les Paul Custom Reissue",
             "price": "5,999.00",
             "condition": "used",
+            "description": "",
             "level": "Advanced"
         },
         {
@@ -171,6 +189,7 @@
             "model": "Custom 24 Piezo",
             "price": "5,470.00",
             "condition": "new",
+            "description": "",
             "level": "Advanced"
         },
         {
@@ -180,6 +199,7 @@
             "model": "G6136TG Players Edititon Falcon",
             "price": "3,999.99",
             "condition": "new",
+            "description": "",
             "level": "Advanced"
         }
     ]
