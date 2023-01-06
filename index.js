@@ -1,8 +1,8 @@
 fetch("http://localhost:3000/guitars")
 .then(response => response.json())
 .then(guitars => {
-    const acousticGuitars = guitars.acoustic;
-    const electricGuitars = guitars.electric;
+    const acousticGuitars = guitars[0].acoustic;
+    const electricGuitars = guitars[1].electric;
     const acousticGuitarsButton = document.getElementById("acoustic-button");
     const electricGuitarsButton = document.getElementById("electric-button");
     const inventoryColumn = document.getElementById("inventory");
@@ -40,8 +40,52 @@ fetch("http://localhost:3000/guitars")
 
     newGuitarForm.addEventListener("submit", (event) => {
         event.preventDefault();
-        fetch()
-    })
+        const newGuitarImage = document.getElementById("new-guitar-image");
+        const newGuitarBrand = document.getElementById("new-guitar-brand");
+        const newGuitarModel = document.getElementById("new-guitar-model");
+        const newGuitarPrice = document.getElementById("new-guitar-price");
+        const newGuitarDescription = document.getElementById("new-guitar-description");
+        const newGuitarCondition = document.getElementById("new-guitar-condition");
+        const newGuitarType = document.getElementById("new-guitar-type");
+        const newGuitarSkillLevel = document.getElementById("new-guitar-skill-level");
+        const newGuitarPic = document.createElement("img");
+
+        // const guitarObj = {
+        //     "image": newGuitarImage.value,
+        //     "brand": newGuitarBrand.value,
+        //     "model": newGuitarModel.value,
+        //     "price": newGuitarPrice.value,
+        //     "condition": newGuitarCondition.value,
+        //     "description": newGuitatDescription.value,
+        //     "level": newGuitarSkillLevel.value 
+        // }
+
+        const guitarObj = {}
+        guitarObj.image = newGuitarImage.value;
+        guitarObj.brand = newGuitarBrand.value;
+        guitarObj.model = newGuitarModel.value;
+        guitarObj.price = newGuitarPrice.value;
+        guitarObj.condition = newGuitarCondition.value;
+        guitarObj.description = newGuitarDescription.value;
+        guitarObj.level = newGuitarSkillLevel.value;
+
+        displayGuitarDetails(guitarObj);
+        populateInventory([...acousticGuitars, guitarObj]);
+        
+        // if (newGuitarType.value === "Acoustic" || newGuitarType.value === "acoustic") {
+
+        //      fetch("http://localhost:3000/guitars/", {
+        //          method: "POST",
+        //          headers: {
+        //              "Content-Type": "application/json",
+        //              "Accept": "application/json"
+        //          },
+        //          body: JSON.stringify(guitarObj),
+        //      })
+
+            newGuitarForm.reset();
+        }
+    )
 
     acousticGuitarsButton.addEventListener("mouseover", (event) => {
         event.preventDefault();
