@@ -15,11 +15,6 @@ fetch("http://localhost:3000/guitars")
     const guitarLevel = document.getElementById("featured-guitar-level");
     const newGuitarForm = document.getElementById("new-guitar-form");
 
-    newGuitarForm.addEventListener("submit", (event) => {
-        event.preventDefault();
-        fetch()
-    })
-
     function displayGuitarDetails(guitar){
         guitarImage.src = guitar.image;
         guitarBrand.textContent = guitar.brand;
@@ -43,15 +38,33 @@ fetch("http://localhost:3000/guitars")
         })
     }
 
+    newGuitarForm.addEventListener("submit", (event) => {
+        event.preventDefault();
+        fetch()
+    })
+
+    acousticGuitarsButton.addEventListener("mouseover", (event) => {
+        event.preventDefault();
+        const acousticAudio = document.getElementById("acoustic-guitar-audio");
+        acousticAudio.play();
+    })
+
     acousticGuitarsButton.addEventListener("click", (event) => {
         event.preventDefault();
         populateInventory(acousticGuitars);
+    })
+
+    electricGuitarsButton.addEventListener("mouseover", (event) => {
+        event.preventDefault();
+        const electricAudio = document.getElementById("electric-guitar-audio");
+        electricAudio.play();
     })
 
     electricGuitarsButton.addEventListener("click", (event) => {
         event.preventDefault();
         populateInventory(electricGuitars);
     })
+
     populateInventory(acousticGuitars);
     displayGuitarDetails(acousticGuitars[0]);
 })
