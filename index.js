@@ -50,16 +50,6 @@ fetch("http://localhost:3000/guitars")
         const newGuitarSkillLevel = document.getElementById("new-guitar-skill-level");
         const newGuitarPic = document.createElement("img");
 
-        // const guitarObj = {
-        //     "image": newGuitarImage.value,
-        //     "brand": newGuitarBrand.value,
-        //     "model": newGuitarModel.value,
-        //     "price": newGuitarPrice.value,
-        //     "condition": newGuitarCondition.value,
-        //     "description": newGuitatDescription.value,
-        //     "level": newGuitarSkillLevel.value 
-        // }
-
         const guitarObj = {}
         guitarObj.image = newGuitarImage.value;
         guitarObj.brand = newGuitarBrand.value;

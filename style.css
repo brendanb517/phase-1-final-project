@@ -1,6 +1,7 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
     padding: 0;
+    color:rgb(193, 197, 198);
 }
 
 .main {
@@ -65,6 +66,12 @@ button {
     display: block;
     margin: auto;
     width: 500px;
+}
+
+#new-guitar-form {
+    position: absolute;
+    right: 0px;
+    top: 0px;
 }
 
 header {
