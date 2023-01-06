@@ -1,206 +1,204 @@
 {
-    "acoustic": [
+  "guitars": [
+    {
+      "id": "1",
+      "acoustic": [
         {
-            "id": "1",
-            "image": "https://m.media-amazon.com/images/I/71zp4wOrSTL.jpg",
-            "brand": "Yamaha",
-            "model": "C40",
-            "price": "159.99",
-            "condition": "used",
-            "description": "A great beginner guitar with that trademark Yamaha quality. Doesn't project as well as other options, but great to learn the basics.",
-            "level": "Beginner"
+          "image": "https://m.media-amazon.com/images/I/71zp4wOrSTL.jpg",
+          "brand": "Yamaha",
+          "model": "C40",
+          "price": "159.99",
+          "condition": "used",
+          "description": "A great beginner guitar with that trademark Yamaha quality. Doesn't project as well as other options, but great to learn the basics.",
+          "level": "Beginner"
         },
         {
-            "id": "2",
-            "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/f/e/fen-097011042_main.jpg",
-            "brand": "Fender",
-            "model": "CD-60S",
-            "price": "199.99",
-            "condition": "new",
-            "description": "The smaller neck and decent quality make this option perfect for a younger player.",
-            "level": "Beginner"
+          "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/f/e/fen-097011042_main.jpg",
+          "brand": "Fender",
+          "model": "CD-60S",
+          "price": "199.99",
+          "condition": "new",
+          "description": "The smaller neck and decent quality make this option perfect for a younger player.",
+          "level": "Beginner"
         },
         {
-            "id": "3",
-            "image": "https://www.stars-music.com/medias/epiphone/hummingbird-studio-dreadnought-epicea-acajou-pf-hd-4-58209.jpg",
-            "brand": "Epiphone",
-            "model": "Hummingbird Studio",
-            "price": "449.99",
-            "condition": "new",
-            "description": "An easy to play option that's built well.",
-            "level": "Beginner"
+          "image": "https://www.stars-music.com/medias/epiphone/hummingbird-studio-dreadnought-epicea-acajou-pf-hd-4-58209.jpg",
+          "brand": "Epiphone",
+          "model": "Hummingbird Studio",
+          "price": "449.99",
+          "condition": "new",
+          "description": "An easy to play option that's built well.",
+          "level": "Beginner"
         },
         {
-            "id": "4",
-            "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/t/a/tay-gsmmah.jpg",
-            "brand": "Taylor",
-            "model": "GS Mini Mahogany",
-            "price": "559.99",
-            "condition": "new",
-            "description": "The high build quality and decent price make this one of Taylor's most popular models.",
-            "level": "Beginner"
+          "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/t/a/tay-gsmmah.jpg",
+          "brand": "Taylor",
+          "model": "GS Mini Mahogany",
+          "price": "559.99",
+          "condition": "new",
+          "description": "The high build quality and decent price make this one of Taylor's most popular models.",
+          "level": "Beginner"
         },
         {
-            "id": "5",
-            "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/i/b/iba-aw54ceopn_2.jpg",
-            "brand": "Ibanez",
-            "model": "AW54CE",
-            "price": "329.99",
-            "condition": "used",
-            "description": "",
-            "level": "Beginner"
+          "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/i/b/iba-aw54ceopn_2.jpg",
+          "brand": "Ibanez",
+          "model": "AW54CE",
+          "price": "329.99",
+          "condition": "used",
+          "description": "",
+          "level": "Beginner"
         },
         {
-            "id": "6",
-            "image": "https://i.ebayimg.com/images/g/Za8AAOSwjhli87eP/s-l1600.jpg",
-            "brand": "Gibson",
-            "model": "Montana Hummingbird",
-            "price": "3,849.00",
-            "condition": "new",
-            "description": "",
-            "level": "Advanced"
+          "image": "https://i.ebayimg.com/images/g/Za8AAOSwjhli87eP/s-l1600.jpg",
+          "brand": "Gibson",
+          "model": "Montana Hummingbird",
+          "price": "3,849.00",
+          "condition": "new",
+          "description": "",
+          "level": "Advanced"
         },
         {
-            "id": "7",
-            "image": "https://www.stars-music.com/medias/martin-guitar/d-28-standard-re-imagined-dreadnought-epicea-palissandre-eb-hd-166174.jpg",
-            "brand": "Martin",
-            "model": "Reimagined Series D-28",
-            "price": "3,199.00",
-            "condition": "new",
-            "description": "",
-            "level": "Advanced"
+          "image": "https://www.stars-music.com/medias/martin-guitar/d-28-standard-re-imagined-dreadnought-epicea-palissandre-eb-hd-166174.jpg",
+          "brand": "Martin",
+          "model": "Reimagined Series D-28",
+          "price": "3,199.00",
+          "condition": "new",
+          "description": "",
+          "level": "Advanced"
         },
         {
-            "id": "8",
-            "image": "https://cdn.mos.cms.futurecdn.net/31404bf68a48a0f33020a4bd970d5282-1200-80.jpg",
-            "brand": "Lowden",
-            "model": "32SE Stage Edition",
-            "price": "5,935.00",
-            "condition": "new",
-            "description": "",
-            "level": "Advanced"
+          "image": "https://cdn.mos.cms.futurecdn.net/31404bf68a48a0f33020a4bd970d5282-1200-80.jpg",
+          "brand": "Lowden",
+          "model": "32SE Stage Edition",
+          "price": "5,935.00",
+          "condition": "new",
+          "description": "",
+          "level": "Advanced"
         },
         {
-            "id": "9",
-            "image": "https://media.sweetwater.com/images/items/1800/SC13ESpBst-xlarge.jpg?v=3fd80ad0b7b31d2d",
-            "brand": "Martin",
-            "model": "SC-13E",
-            "price": "1,599.00",
-            "condition": "new",
-            "description": "",
-            "level": "Advanced"
+          "image": "https://media.sweetwater.com/images/items/1800/SC13ESpBst-xlarge.jpg?v=3fd80ad0b7b31d2d",
+          "brand": "Martin",
+          "model": "SC-13E",
+          "price": "1,599.00",
+          "condition": "new",
+          "description": "",
+          "level": "Advanced"
         },
         {
-            "id": "10",
-            "image": "https://www.tedbrownmusic.com/images/product/large/ae00-46456.jpg",
-            "brand": "Yamaha",
-            "model": "A5R ARE",
-            "price": "1,599.99",
-            "condition": "new",
-            "description": "",
-            "level": "Advanced"
+          "image": "https://www.tedbrownmusic.com/images/product/large/ae00-46456.jpg",
+          "brand": "Yamaha",
+          "model": "A5R ARE",
+          "price": "1,599.99",
+          "condition": "new",
+          "description": "",
+          "level": "Advanced"
         }
-    ],
-    "electric": [
+      ]
+    },
+    {
+      "id": "2",
+      "electric": [
         {
-            "id": "1",
-            "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/y/a/yam-pac112vovs.jpg",
-            "brand": "Yamaha",
-            "model": "Pacifica 112V",
-            "price": "309.99",
-            "condition": "used",
-            "description": "",
-            "level": "Beginner"
+          "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/y/a/yam-pac112vovs.jpg",
+          "brand": "Yamaha",
+          "model": "Pacifica 112V",
+          "price": "309.99",
+          "condition": "used",
+          "description": "",
+          "level": "Beginner"
         },
         {
-            "id": "2",
-            "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/f/e/fen-0374005540_pp.jpg",
-            "brand": "Squier",
-            "model": "Classic Vibe '50s Stratocaster",
-            "price": "419.99",
-            "condition": "used",
-            "description": "",
-            "level": "Beginner"
+          "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/f/e/fen-0374005540_pp.jpg",
+          "brand": "Squier",
+          "model": "Classic Vibe '50s Stratocaster",
+          "price": "419.99",
+          "condition": "used",
+          "description": "",
+          "level": "Beginner"
         },
         {
-            "id": "3",
-            "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/p/r/prs-st4vchcb.jpg",
-            "brand": "PRS",
-            "model": "SE Standard 24",
-            "price": "649.99",
-            "condition": "new",
-            "description": "",
-            "level": "Beginner"
+          "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/p/r/prs-st4vchcb.jpg",
+          "brand": "PRS",
+          "model": "SE Standard 24",
+          "price": "649.99",
+          "condition": "new",
+          "description": "",
+          "level": "Beginner"
         },
         {
-            "id": "4",
-            "image": "https://www.stars-music.com/medias/epiphone/les-paul-studio-modern-2020-hh-ht-pf-hd-165809.jpg",
-            "brand": "Epiphone",
-            "model": "Les Paul Studio",
-            "price": "269.99",
-            "condition": "used",
-            "description": "",
-            "level": "Beginner" 
+          "image": "https://www.stars-music.com/medias/epiphone/les-paul-studio-modern-2020-hh-ht-pf-hd-165809.jpg",
+          "brand": "Epiphone",
+          "model": "Les Paul Studio",
+          "price": "269.99",
+          "condition": "used",
+          "description": "",
+          "level": "Beginner"
         },
         {
-            "id": "5",
-            "image": "https://www.stars-music.com/medias/gretsch/g2420-streamliner-hollow-body-with-chromatic-ii-hh-ht-lau-hd-160254.jpg",
-            "brand": "Gretsch",
-            "model": "G2420 Streamliner",
-            "price": "559.99",
-            "condition": "new",
-            "description": "",
-            "level": "Beginner"
+          "image": "https://www.stars-music.com/medias/gretsch/g2420-streamliner-hollow-body-with-chromatic-ii-hh-ht-lau-hd-160254.jpg",
+          "brand": "Gretsch",
+          "model": "G2420 Streamliner",
+          "price": "559.99",
+          "condition": "new",
+          "description": "",
+          "level": "Beginner"
         },
         {
-            "id": "6",
-            "image": "https://www.pitbullaudio.com/media/catalog/product/f/e/fen-9235001558.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=",
-            "brand": "Fender",
-            "model": "CS Time Machine Series '52 Telecaster",
-            "price": "4,350",
-            "condition": "new",
-            "description": "",
-            "level": "Advanced"
+          "image": "https://www.pitbullaudio.com/media/catalog/product/f/e/fen-9235001558.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=",
+          "brand": "Fender",
+          "model": "CS Time Machine Series '52 Telecaster",
+          "price": "4,350",
+          "condition": "new",
+          "description": "",
+          "level": "Advanced"
         },
         {
-            "id": "7",
-            "image": "https://www.stars-music.com/medias/yamaha/sa2200-vs-hd-5-53680.jpg",
-            "brand": "Yamaha",
-            "model": "SA2200",
-            "price": "2099.99",
-            "condition": "used",
-            "description": "",
-            "level": "Advanced"
+          "image": "https://www.stars-music.com/medias/yamaha/sa2200-vs-hd-5-53680.jpg",
+          "brand": "Yamaha",
+          "model": "SA2200",
+          "price": "2099.99",
+          "condition": "used",
+          "description": "",
+          "level": "Advanced"
         },
         {
-            "id": "8",
-            "image": "https://www.stars-music.com/medias/gibson/custom-shop-les-paul-custom-1968-reissue-2019-hd-4-161298.jpg",
-            "brand": "Gibson",
-            "model": "1968 Les Paul Custom Reissue",
-            "price": "5,999.00",
-            "condition": "used",
-            "description": "",
-            "level": "Advanced"
+          "image": "https://www.stars-music.com/medias/gibson/custom-shop-les-paul-custom-1968-reissue-2019-hd-4-161298.jpg",
+          "brand": "Gibson",
+          "model": "1968 Les Paul Custom Reissue",
+          "price": "5,999.00",
+          "condition": "used",
+          "description": "",
+          "level": "Advanced"
         },
         {
-            "id": "9",
-            "image": "hhttps://cdn.shopify.com/s/files/1/0006/2550/8417/products/CU24_Piezo_Black_Gold_Wrap_792905-a484abc7b6ce4244482daf57f2052b83_700x700.jpg?v=1594128481",
-            "brand": "PRS",
-            "model": "Custom 24 Piezo",
-            "price": "5,470.00",
-            "condition": "new",
-            "description": "",
-            "level": "Advanced"
+          "image": "hhttps://cdn.shopify.com/s/files/1/0006/2550/8417/products/CU24_Piezo_Black_Gold_Wrap_792905-a484abc7b6ce4244482daf57f2052b83_700x700.jpg?v=1594128481",
+          "brand": "PRS",
+          "model": "Custom 24 Piezo",
+          "price": "5,470.00",
+          "condition": "new",
+          "description": "",
+          "level": "Advanced"
         },
         {
-            "id": "10",
-            "image": "https://m.media-amazon.com/images/I/51kwbi7p7sL._AC_UL480_FMwebp_QL65_.jpg",
-            "brand": "Gretsch",
-            "model": "G6136TG Players Edititon Falcon",
-            "price": "3,999.99",
-            "condition": "new",
-            "description": "",
-            "level": "Advanced"
+          "image": "https://m.media-amazon.com/images/I/51kwbi7p7sL._AC_UL480_FMwebp_QL65_.jpg",
+          "brand": "Gretsch",
+          "model": "G6136TG Players Edititon Falcon",
+          "price": "3,999.99",
+          "condition": "new",
+          "description": "",
+          "level": "Advanced"
         }
-    ]
+      ]
+    },
+    {
+      "image": "data:image/jpeg;base64,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",
+      "brand": "some brand",
+      "model": "some model",
+      "price": "18000",
+      "condition": "used",
+      "description": "plays like shit",
+      "level": "Advanced",
+      "id": "0NKjWkk"
+    }
+  ]
 }
