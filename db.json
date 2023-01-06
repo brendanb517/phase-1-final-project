@@ -1,206 +1,209 @@
 {
-    "acoustic": [
-        {
-            "id": "1",
-            "image": "https://m.media-amazon.com/images/I/71zp4wOrSTL.jpg",
-            "brand": "Yamaha",
-            "model": "C40",
-            "price": "159.99",
-            "condition": "used",
-            "description": "A great beginner guitar with that trademark Yamaha quality. Doesn't project as well as other options, but great to learn the basics.",
-            "level": "Beginner"
-        },
-        {
-            "id": "2",
-            "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/f/e/fen-097011042_main.jpg",
-            "brand": "Fender",
-            "model": "CD-60S",
-            "price": "199.99",
-            "condition": "new",
-            "description": "The smaller neck and decent quality make this option perfect for a younger player.",
-            "level": "Beginner"
-        },
-        {
-            "id": "3",
-            "image": "https://www.stars-music.com/medias/epiphone/hummingbird-studio-dreadnought-epicea-acajou-pf-hd-4-58209.jpg",
-            "brand": "Epiphone",
-            "model": "Hummingbird Studio",
-            "price": "449.99",
-            "condition": "new",
-            "description": "An easy to play option that's built well.",
-            "level": "Beginner"
-        },
-        {
-            "id": "4",
-            "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/t/a/tay-gsmmah.jpg",
-            "brand": "Taylor",
-            "model": "GS Mini Mahogany",
-            "price": "559.99",
-            "condition": "new",
-            "description": "The high build quality and decent price make this one of Taylor's most popular models.",
-            "level": "Beginner"
-        },
-        {
-            "id": "5",
-            "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/i/b/iba-aw54ceopn_2.jpg",
-            "brand": "Ibanez",
-            "model": "AW54CE",
-            "price": "329.99",
-            "condition": "used",
-            "description": "",
-            "level": "Beginner"
-        },
-        {
-            "id": "6",
-            "image": "https://i.ebayimg.com/images/g/Za8AAOSwjhli87eP/s-l1600.jpg",
-            "brand": "Gibson",
-            "model": "Montana Hummingbird",
-            "price": "3,849.00",
-            "condition": "new",
-            "description": "",
-            "level": "Advanced"
-        },
-        {
-            "id": "7",
-            "image": "https://www.stars-music.com/medias/martin-guitar/d-28-standard-re-imagined-dreadnought-epicea-palissandre-eb-hd-166174.jpg",
-            "brand": "Martin",
-            "model": "Reimagined Series D-28",
-            "price": "3,199.00",
-            "condition": "new",
-            "description": "",
-            "level": "Advanced"
-        },
-        {
-            "id": "8",
-            "image": "https://cdn.mos.cms.futurecdn.net/31404bf68a48a0f33020a4bd970d5282-1200-80.jpg",
-            "brand": "Lowden",
-            "model": "32SE Stage Edition",
-            "price": "5,935.00",
-            "condition": "new",
-            "description": "",
-            "level": "Advanced"
-        },
-        {
-            "id": "9",
-            "image": "https://media.sweetwater.com/images/items/1800/SC13ESpBst-xlarge.jpg?v=3fd80ad0b7b31d2d",
-            "brand": "Martin",
-            "model": "SC-13E",
-            "price": "1,599.00",
-            "condition": "new",
-            "description": "",
-            "level": "Advanced"
-        },
-        {
-            "id": "10",
-            "image": "https://www.tedbrownmusic.com/images/product/large/ae00-46456.jpg",
-            "brand": "Yamaha",
-            "model": "A5R ARE",
-            "price": "1,599.99",
-            "condition": "new",
-            "description": "",
-            "level": "Advanced"
-        }
-    ],
-    "electric": [
-        {
-            "id": "1",
-            "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/y/a/yam-pac112vovs.jpg",
-            "brand": "Yamaha",
-            "model": "Pacifica 112V",
-            "price": "309.99",
-            "condition": "used",
-            "description": "",
-            "level": "Beginner"
-        },
-        {
-            "id": "2",
-            "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/f/e/fen-0374005540_pp.jpg",
-            "brand": "Squier",
-            "model": "Classic Vibe '50s Stratocaster",
-            "price": "419.99",
-            "condition": "used",
-            "description": "",
-            "level": "Beginner"
-        },
-        {
-            "id": "3",
-            "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/p/r/prs-st4vchcb.jpg",
-            "brand": "PRS",
-            "model": "SE Standard 24",
-            "price": "649.99",
-            "condition": "new",
-            "description": "",
-            "level": "Beginner"
-        },
-        {
-            "id": "4",
-            "image": "https://www.stars-music.com/medias/epiphone/les-paul-studio-modern-2020-hh-ht-pf-hd-165809.jpg",
-            "brand": "Epiphone",
-            "model": "Les Paul Studio",
-            "price": "269.99",
-            "condition": "used",
-            "description": "",
-            "level": "Beginner" 
-        },
-        {
-            "id": "5",
-            "image": "https://www.stars-music.com/medias/gretsch/g2420-streamliner-hollow-body-with-chromatic-ii-hh-ht-lau-hd-160254.jpg",
-            "brand": "Gretsch",
-            "model": "G2420 Streamliner",
-            "price": "559.99",
-            "condition": "new",
-            "description": "",
-            "level": "Beginner"
-        },
-        {
-            "id": "6",
-            "image": "https://www.pitbullaudio.com/media/catalog/product/f/e/fen-9235001558.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=",
-            "brand": "Fender",
-            "model": "CS Time Machine Series '52 Telecaster",
-            "price": "4,350",
-            "condition": "new",
-            "description": "",
-            "level": "Advanced"
-        },
-        {
-            "id": "7",
-            "image": "https://www.stars-music.com/medias/yamaha/sa2200-vs-hd-5-53680.jpg",
-            "brand": "Yamaha",
-            "model": "SA2200",
-            "price": "2099.99",
-            "condition": "used",
-            "description": "",
-            "level": "Advanced"
-        },
-        {
-            "id": "8",
-            "image": "https://www.stars-music.com/medias/gibson/custom-shop-les-paul-custom-1968-reissue-2019-hd-4-161298.jpg",
-            "brand": "Gibson",
-            "model": "1968 Les Paul Custom Reissue",
-            "price": "5,999.00",
-            "condition": "used",
-            "description": "",
-            "level": "Advanced"
-        },
-        {
-            "id": "9",
-            "image": "hhttps://cdn.shopify.com/s/files/1/0006/2550/8417/products/CU24_Piezo_Black_Gold_Wrap_792905-a484abc7b6ce4244482daf57f2052b83_700x700.jpg?v=1594128481",
-            "brand": "PRS",
-            "model": "Custom 24 Piezo",
-            "price": "5,470.00",
-            "condition": "new",
-            "description": "",
-            "level": "Advanced"
-        },
-        {
-            "id": "10",
-            "image": "https://m.media-amazon.com/images/I/51kwbi7p7sL._AC_UL480_FMwebp_QL65_.jpg",
-            "brand": "Gretsch",
-            "model": "G6136TG Players Edititon Falcon",
-            "price": "3,999.99",
-            "condition": "new",
-            "description": "",
-            "level": "Advanced"
-        }
-    ]
+    "guitars": {
+        "acoustic": [
+            {
+                "id": "1",
+                "image": "https://m.media-amazon.com/images/I/71zp4wOrSTL.jpg",
+                "brand": "Yamaha",
+                "model": "C40",
+                "price": "159.99",
+                "condition": "used",
+                "description": "A great beginner guitar with that trademark Yamaha quality. Doesn't project as well as other options, but great to learn the basics.",
+                "level": "Beginner"
+            },
+            {
+                "id": "2",
+                "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/f/e/fen-097011042_main.jpg",
+                "brand": "Fender",
+                "model": "CD-60S",
+                "price": "199.99",
+                "condition": "new",
+                "description": "The smaller neck and decent quality make this option perfect for a younger player.",
+                "level": "Beginner"
+            },
+            {
+                "id": "3",
+                "image": "https://www.stars-music.com/medias/epiphone/hummingbird-studio-dreadnought-epicea-acajou-pf-hd-4-58209.jpg",
+                "brand": "Epiphone",
+                "model": "Hummingbird Studio",
+                "price": "449.99",
+                "condition": "new",
+                "description": "An easy to play option that's built well.",
+                "level": "Beginner"
+            },
+            {
+                "id": "4",
+                "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/t/a/tay-gsmmah.jpg",
+                "brand": "Taylor",
+                "model": "GS Mini Mahogany",
+                "price": "559.99",
+                "condition": "new",
+                "description": "The high build quality and decent price make this one of Taylor's most popular models.",
+                "level": "Beginner"
+            },
+            {
+                "id": "5",
+                "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/i/b/iba-aw54ceopn_2.jpg",
+                "brand": "Ibanez",
+                "model": "AW54CE",
+                "price": "329.99",
+                "condition": "used",
+                "description": "",
+                "level": "Beginner"
+            },
+            {
+                "id": "6",
+                "image": "https://i.ebayimg.com/images/g/Za8AAOSwjhli87eP/s-l1600.jpg",
+                "brand": "Gibson",
+                "model": "Montana Hummingbird",
+                "price": "3,849.00",
+                "condition": "new",
+                "description": "",
+                "level": "Advanced"
+            },
+            {
+                "id": "7",
+                "image": "https://www.stars-music.com/medias/martin-guitar/d-28-standard-re-imagined-dreadnought-epicea-palissandre-eb-hd-166174.jpg",
+                "brand": "Martin",
+                "model": "Reimagined Series D-28",
+                "price": "3,199.00",
+                "condition": "new",
+                "description": "",
+                "level": "Advanced"
+            },
+            {
+                "id": "8",
+                "image": "https://cdn.mos.cms.futurecdn.net/31404bf68a48a0f33020a4bd970d5282-1200-80.jpg",
+                "brand": "Lowden",
+                "model": "32SE Stage Edition",
+                "price": "5,935.00",
+                "condition": "new",
+                "description": "",
+                "level": "Advanced"
+            },
+            {
+                "id": "9",
+                "image": "https://media.sweetwater.com/images/items/1800/SC13ESpBst-xlarge.jpg?v=3fd80ad0b7b31d2d",
+                "brand": "Martin",
+                "model": "SC-13E",
+                "price": "1,599.00",
+                "condition": "new",
+                "description": "",
+                "level": "Advanced"
+            },
+            {
+                "id": "10",
+                "image": "https://www.tedbrownmusic.com/images/product/large/ae00-46456.jpg",
+                "brand": "Yamaha",
+                "model": "A5R ARE",
+                "price": "1,599.99",
+                "condition": "new",
+                "description": "",
+                "level": "Advanced"
+            }
+        ],
+        "electric": [
+            {
+                "id": "1",
+                "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/y/a/yam-pac112vovs.jpg",
+                "brand": "Yamaha",
+                "model": "Pacifica 112V",
+                "price": "309.99",
+                "condition": "used",
+                "description": "",
+                "level": "Beginner"
+            },
+            {
+                "id": "2",
+                "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/f/e/fen-0374005540_pp.jpg",
+                "brand": "Squier",
+                "model": "Classic Vibe '50s Stratocaster",
+                "price": "419.99",
+                "condition": "used",
+                "description": "",
+                "level": "Beginner"
+            },
+            {
+                "id": "3",
+                "image": "https://www.kraftmusic.com/media/catalog/product/cache/3fedc8207dcd37094c7cd808f4dc6b12/p/r/prs-st4vchcb.jpg",
+                "brand": "PRS",
+                "model": "SE Standard 24",
+                "price": "649.99",
+                "condition": "new",
+                "description": "",
+                "level": "Beginner"
+            },
+            {
+                "id": "4",
+                "image": "https://www.stars-music.com/medias/epiphone/les-paul-studio-modern-2020-hh-ht-pf-hd-165809.jpg",
+                "brand": "Epiphone",
+                "model": "Les Paul Studio",
+                "price": "269.99",
+                "condition": "used",
+                "description": "",
+                "level": "Beginner" 
+            },
+            {
+                "id": "5",
+                "image": "https://www.stars-music.com/medias/gretsch/g2420-streamliner-hollow-body-with-chromatic-ii-hh-ht-lau-hd-160254.jpg",
+                "brand": "Gretsch",
+                "model": "G2420 Streamliner",
+                "price": "559.99",
+                "condition": "new",
+                "description": "",
+                "level": "Beginner"
+            },
+            {
+                "id": "6",
+                "image": "https://www.pitbullaudio.com/media/catalog/product/f/e/fen-9235001558.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=",
+                "brand": "Fender",
+                "model": "CS Time Machine Series '52 Telecaster",
+                "price": "4,350",
+                "condition": "new",
+                "description": "",
+                "level": "Advanced"
+            },
+            {
+                "id": "7",
+                "image": "https://www.stars-music.com/medias/yamaha/sa2200-vs-hd-5-53680.jpg",
+                "brand": "Yamaha",
+                "model": "SA2200",
+                "price": "2099.99",
+                "condition": "used",
+                "description": "",
+                "level": "Advanced"
+            },
+            {
+                "id": "8",
+                "image": "https://www.stars-music.com/medias/gibson/custom-shop-les-paul-custom-1968-reissue-2019-hd-4-161298.jpg",
+                "brand": "Gibson",
+                "model": "1968 Les Paul Custom Reissue",
+                "price": "5,999.00",
+                "condition": "used",
+                "description": "",
+                "level": "Advanced"
+            },
+            {
+                "id": "9",
+                "image": "hhttps://cdn.shopify.com/s/files/1/0006/2550/8417/products/CU24_Piezo_Black_Gold_Wrap_792905-a484abc7b6ce4244482daf57f2052b83_700x700.jpg?v=1594128481",
+                "brand": "PRS",
+                "model": "Custom 24 Piezo",
+                "price": "5,470.00",
+                "condition": "new",
+                "description": "",
+                "level": "Advanced"
+            },
+            {
+                "id": "10",
+                "image": "https://m.media-amazon.com/images/I/51kwbi7p7sL._AC_UL480_FMwebp_QL65_.jpg",
+                "brand": "Gretsch",
+                "model": "G6136TG Players Edititon Falcon",
+                "price": "3,999.99",
+                "condition": "new",
+                "description": "",
+                "level": "Advanced"
+            }
+        ]
+    }
+    
 }
